@@ -1,5 +1,5 @@
 function printStars(n) {
-  console.log(n+2);
+  console.log(n+"1")
 }
 
 printStars(5);
