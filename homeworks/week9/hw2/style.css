@@ -1,0 +1,22 @@
+.container {
+	max-width: 780px;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.list {
+	list-style: none;
+	padding: 0;
+}
+
+.message {
+	border: 1px solid #eee;
+	padding: 10px;
+}
+
+.message ~ .message {
+	margin-top: 20px;
+}
